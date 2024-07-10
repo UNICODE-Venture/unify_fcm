@@ -9,7 +9,7 @@ A Light-weight Flutter package to send remote push notifications using Firebase 
 - **Image Notification:** You can send image too, if your app support image notification 😉
 - **Topic Notification:** Send notification to all subscribers of topic 📬.
 
-<img src="https://raw.githubusercontent.com/UNICODE-Venture/unify_fcm/main/assets/screenshots/1.jpg" alt="unify_fcm by Saif" width="400" height="500">
+<img src="https://raw.githubusercontent.com/UNICODE-Venture/unify_fcm/main/assets/screenshots/1.jpg" alt="unify_fcm by Saif" width="200" height="400">
 
 ## Getting started
 
