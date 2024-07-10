@@ -1,0 +1,30 @@
+name: unify_fcm
+description: "A Light-weight Flutter package to send remote push notifications using Firebase Cloud Messaging (FCM) v1 API and generate access token from service account."
+version: 1.0.0
+repository: https://github.com/UNICODE-Venture/unify_fcm
+homepage: https://github.com/UNICODE-Venture/unify_fcm
+issue_tracker: https://github.com/UNICODE-Venture/unify_fcm/issues
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Auth for the FCM
+  googleapis_auth: ^1.6.0
+
+  # Network calls
+  http: ^1.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+# The following section is specific to Flutter packages.
+flutter:
+  # assets:
+  #   - images/a_dot_burr.jpeg
