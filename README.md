@@ -13,7 +13,7 @@ A Light-weight Flutter package to send remote push notifications using Firebase 
 
 ## Getting started
 
-Please have a look at our [/example](https://pub.dev/packages/uni_country_city_picker/example) project for a better understanding of implementations.
+Please have a look at our [/example](https://pub.dev/packages/unify_fcm/example) project for a better understanding of implementations.
 
 #### Initialize it in the `main.dart` file to send the notification.
 
